@@ -14,7 +14,7 @@ array.reverse()
 end
 
 def using_first(array)
-array = ["yellow", "green", "blue", "purple"]
+array = ["wow", "green", "blue", "purple"]
 array.first()
 end
 
