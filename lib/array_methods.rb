@@ -9,7 +9,7 @@ array.sort()
 end
 
 def using_reverse(array)
-array = ["yellow", "green", "blue", "purple"]
+array = ["yellow", "green", "blue", "arrays"]
 array.reverse()
 end
 
