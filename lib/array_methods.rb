@@ -24,5 +24,6 @@ array.last()
 end
 
 def using_size(array)
+  array =  ["wow", "i'm", "learning", "these", "arrays!"]
 array.size()
 end
