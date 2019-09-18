@@ -9,17 +9,17 @@ array.sort()
 end
 
 def using_reverse(array)
-array = ["yellow", "green", "blue", "arrays"]
+array = ["wow", "i'm", "really", "learning", "these", "arrays"]
 array.reverse()
 end
 
 def using_first(array)
-array = ["wow", "green", "blue", "purple"]
+array = ["wow", "i'm", "really", "learning", "these", "arrays!"]
 array.first()
 end
 
 def using_last(array)
-array = ["wow", "i'm", "learning", "these", "arrays!"]
+array = ["wow", "i'm", "really", "learning", "these", "arrays!"]
 array.last()
 end
 
