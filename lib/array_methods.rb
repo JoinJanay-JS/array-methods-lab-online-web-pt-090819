@@ -14,7 +14,7 @@ array.reverse()
 end
 
 def using_first(array)
-array = ["I", "really", "learning", "these", "arrays!"]
+array = ["wow", "I'm", "really", "learning", "these", "arrays!"]
 array.first()
 end
 
