@@ -5,7 +5,7 @@ end
 
 def using_sort(array)
   array = ["wow", "i", "am", "really", "learning", "these", "arrays!"]
-array.sort().to eq("i")
+array.sort()
 end
 
 def using_reverse(array)
