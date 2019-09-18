@@ -19,7 +19,7 @@ array.first()
 end
 
 def using_last(array)
-array 
+array = ["wow", "i'm", "learning", "these", "arrays"]
 array.last()
 end
 
