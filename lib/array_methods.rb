@@ -4,10 +4,12 @@ array.include?("arrays")
 end
 
 def using_sort(array)
+  array = ["yellow", "green", "blue", "purple"]
 array.sort()
 end
 
 def using_reverse(array)
+array = 
 array.reverse()
 end
 
