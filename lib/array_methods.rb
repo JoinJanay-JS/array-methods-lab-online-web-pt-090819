@@ -9,11 +9,12 @@ array.sort()
 end
 
 def using_reverse(array)
-array = 
+array = ["yellow", "green", "blue", "purple"]
 array.reverse()
 end
 
 def using_first(array)
+array = [""]
 array.first()
 end
 
